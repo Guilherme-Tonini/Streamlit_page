@@ -1,0 +1,9 @@
+streamlit==1.39.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==1.5.3
+numpy==1.24.1
+matplotlib==3.6.3
+scikit-learn==1.2.2
+plotly==5.24.1
+statsforecast==1.7.5
