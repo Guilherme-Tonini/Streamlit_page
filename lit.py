@@ -1,3 +1,6 @@
+import os
+os.system("python3 -m pip install --upgrade pip")
+
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
