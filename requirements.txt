@@ -1,4 +1,5 @@
 streamlit==1.39.0
+lxml==4.9.3
 requests==2.31.0
 beautifulsoup4==4.12.3
 pandas==1.5.3
